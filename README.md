@@ -1,5 +1,3 @@
-![Web Application Developer](https://media-exp1.licdn.com/dms/image/C5603AQGGIxESHK1GZw/profile-displayphoto-shrink_200_200/0/1597381212295?e=1668643200&v=beta&t=zJ4n9wjlXLj9Qi2f5Pz1JOXi49Mfu0OoY7GLUJY3p6I)
-
 ### Hi there 👋, I am Nazmul Hossain
 #### Web Application Developer
 
