@@ -4,13 +4,13 @@
 #### Web Application Developer
 
 
-I am a fullstack web application developer and currently working as web application developer at RS Software. My expertise includes PHP, Laravel, Codeigniter, Javascript, JQuery, React.js, Mysql.
+I am a full-stack web application developer and currently working as a Software Engineer at Jatri. My expertise includes PHP, Laravel, Codeigniter, Javascript, JQuery, Vue and Mysql.
 
-Skills: PHP / Laravel/ Codeigniter/ Javascript / JQuery / React.js / Mysql
+Skills: PHP / Laravel/ Codeigniter/ Javascript / Vue / JQuery / Mysql
 
-- 🔭 I’m currently working on E-commerce project 
+- 🔭 I’m currently working on an E-commerce project 
 - 🌱 I’m currently learning React.js 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Application Development 
 
 
