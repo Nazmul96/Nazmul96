@@ -2,12 +2,12 @@
 #### Web Application Developer
 
 
-I am a full-stack web application developer and currently working as a Software Engineer at Jatri. My expertise includes PHP, Laravel, Codeigniter, Javascript, JQuery, Vue and Mysql.
+I am a full-stack Software developer and currently working as a Software Engineer at Jatri. My expertise includes PHP, Laravel, Codeigniter, Javascript, JQuery, Vue and Mysql.
 
 Skills: PHP / Laravel/ Codeigniter/ Javascript / Vue / JQuery / Mysql
 
-- 🔭 I’m currently working on an E-commerce project 
-- 🌱 I’m currently learning React.js 
+- 🔭 I’m currently working on an Jatri Fintech Software 
+- 🌱 I’m currently learning Vue.js 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Application Development 
 
