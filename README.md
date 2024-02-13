@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Nazmul Hossain
-#### Web Application Developer
+#### Software Developer
 
 
 I am a full-stack Software developer and currently working as a Software Engineer at Jatri. My expertise includes PHP, Laravel, Codeigniter, Javascript, JQuery, Vue and Mysql.
