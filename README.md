@@ -38,6 +38,6 @@ Skills: PHP / Laravel/ Codeigniter/ Javascript / Vue / JQuery / Mysql
  
 
 ### Leetcode profile
-<div align="center">
+<div align="left">
   <img src="https://leetcode-stats-six.vercel.app/?username=nazmul96&theme=dark" height="220" alt="streak graph"  />
 </div>
