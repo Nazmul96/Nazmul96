@@ -37,4 +37,7 @@ Skills: PHP / Laravel/ Codeigniter/ Javascript / Vue / JQuery / Mysql
 ![Nazmul Hossain Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul96&layout=compact)
  
 
-
+### Leetcode profile
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=nazmul96&theme=dark" height="220" alt="streak graph"  />
+</div>
