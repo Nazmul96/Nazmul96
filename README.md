@@ -4,7 +4,7 @@
 
 I am a full-stack Software developer and currently working as a Software Engineer at Jatri. My expertise includes PHP, Laravel, Codeigniter, Javascript, JQuery, Vue and Mysql.
 
-Skills: PHP / Laravel/ Codeigniter/ Javascript / Vue / Inertia.js/ JQuery / Mysql
+Skills: PHP / Laravel/ Codeigniter/ Javascript / Vue / Inertia.js / JQuery / Mysql
 
 - 🔭 I’m currently working on a Jatri Fintech Software 
 - 🌱 I’m currently learning Vue.js 
